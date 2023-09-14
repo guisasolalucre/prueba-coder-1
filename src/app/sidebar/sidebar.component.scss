@@ -1,0 +1,44 @@
+aside {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 2%;
+    color: antiquewhite;
+    background-color: #272b00;
+}
+
+ul{
+    margin-top: 20%;
+    list-style-type: none;
+}
+li{
+    font-size: x-large;
+    padding: 15% 0%;
+}
+
+#contact{
+    padding-left: 3%;
+    display: inline-block;
+    align-content: center;
+    position: fixed;
+    bottom: 5%;
+    font-size: large;
+}
+
+#contact p{
+    position: fixed;
+    bottom: 12%;
+    text-decoration: underline;
+}
+
+a{
+    display: block;
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 105%;
+}
